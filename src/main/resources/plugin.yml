@@ -1,0 +1,4 @@
+name: Titansponges
+version: '${project.version}'
+main: com.jliii.titansponges.Titansponges
+api-version: 1.19
